@@ -34,3 +34,4 @@ Notes and usage details for vocascan-pocket.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
